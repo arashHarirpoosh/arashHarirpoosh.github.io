@@ -20,7 +20,8 @@ EDUCATION
 
 Projects
 -------
-* [Operating Systems](https://github.com/arashHarirpoosh/os_midterm_project, https://github.com/arashHarirpoosh/OS_FinalProject)
+* [Operating Systems-midtermProject](https://github.com/arashHarirpoosh/os_midterm_project)
+* [Operating Systems-finalProject](https://github.com/arashHarirpoosh/OS_FinalProject)
 * [CompilerDesign](https://github.com/arashHarirpoosh/CompilerProject)
 
 Technical Skills
