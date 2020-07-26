@@ -29,6 +29,7 @@ Technical Skills
 * Programming Development: C, C++, Java, Python, Verilog, VHDL, SQL
 * Database Management Systems: MySQL, SQLite
 * Operating Systems: Unix/Linux, Microsoft Windows
+* Publishing and Project Management tools: Office Box (Word, PowerPoint, Excel, Visio), LaTeX
 * Familiars with : HTML, Java script, CSS, FXML, MongoDB
 * Good documentation
 
