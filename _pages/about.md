@@ -16,10 +16,10 @@ HIGHLIGHTS OF QUALIFICATIONS
 
 EDUCATION
 -------
-**Amirkabir University of Technology**,<br />Sep. 2018- Present
+**Amirkabir University of Technology**<br />Sep. 2018- Present
               
 
-**Zanjan University**,<br                />Sep. 2017- Sep. 2018
+**Zanjan University**<br />Sep. 2017- Sep. 2018
 
 
 Projects
