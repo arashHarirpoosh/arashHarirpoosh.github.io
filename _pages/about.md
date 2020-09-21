@@ -16,22 +16,33 @@ HIGHLIGHTS OF QUALIFICATIONS
 
 EDUCATION
 -------
+Amirkabir University of Technology                                                                                                    Sep. 2018- Present
+--              
 
+Zanjan University                                                                                                                     Sep. 2017- Sep. 2018
+--
 
 Projects
 -------
 * [Operating Systems-midtermProject](https://github.com/arashHarirpoosh/os_midterm_project)
 * [Operating Systems-finalProject](https://github.com/arashHarirpoosh/OS_FinalProject)
-* [CompilerDesign](https://github.com/arashHarirpoosh/CompilerProject)
+* [Compiler Design](https://github.com/arashHarirpoosh/CompilerProject)
+* [Computational Intelligence](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/ComputationalIntelligence)
+* [Computer Networks](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/ComputerNetworks/NetWolf)
+* [Multicore Programming](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/MulticoreProgramming)
+* [Principles of Database Design](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/Principles_of_Database_Design)
+* [Signals And Systems](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/SignalsAndSystems)
+* [Theory of Machines and Languages](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/Theory_of_Machines_and_Languages)
 
 Technical Skills
 -------
 * Programming Development: C, C++, Java, Python, Verilog, VHDL, SQL
+* Parallel Programming Development: OpenMP, CUDA 
 * Database Management Systems: MySQL, SQLite
 * Operating Systems: Unix/Linux, Microsoft Windows
 * Publishing and Project Management tools: Office Box (Word, PowerPoint, Excel, Visio), LaTeX
-* Familiars with : HTML, Java script, CSS, FXML, MongoDB
-* Good documentation
+* Experience in: HTML, Java script, CSS, FXML, MongoDB
+* skilled in writing documentation
 
 CERTIFICATES, LICENCES and TRAINING
 -------
