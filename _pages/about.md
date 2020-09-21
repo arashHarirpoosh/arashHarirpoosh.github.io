@@ -17,10 +17,10 @@ HIGHLIGHTS OF QUALIFICATIONS
 EDUCATION
 -------
 Amirkabir University of Technology                                                                                                    Sep. 2018- Present
---              
+              
 
 Zanjan University                                                                                                                     Sep. 2017- Sep. 2018
---
+
 
 Projects
 -------
@@ -34,7 +34,7 @@ Projects
 * [Signals And Systems](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/SignalsAndSystems)
 * [Theory of Machines and Languages](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/Theory_of_Machines_and_Languages)
 
-Technical Skills
+SOFTWARE AND TECHNICAL SKILLS
 -------
 * Programming Development: C, C++, Java, Python, Verilog, VHDL, SQL
 * Parallel Programming Development: OpenMP, CUDA 
