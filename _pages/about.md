@@ -9,7 +9,7 @@ redirect_from:
 ---
 EDUCATION
 -------
-**Amirkabir University of Technology**<br />B.Sc. Computer Engineerin, Sep. 2018- Present
+**Amirkabir University of Technology**<br />B.Sc. Computer Engineerin, Sep. 2018 - Present
               
 Projects
 -------
