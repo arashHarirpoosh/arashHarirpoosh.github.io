@@ -10,9 +10,8 @@ redirect_from:
 
 HIGHLIGHTS OF QUALIFICATIONS
 -------
-* I am  interested in  learning different languages and team work.
 * I have been working with C, C++, Python, Java and I have basic knowledge about Android.
-* Self-learner, detail oriented, fast adaptable, diligent and passion for solving challenging problems.
+* Self-learner, detail oriented, fast adaptable, diligent, team work player and passion for solving challenging problems.
 
 EDUCATION
 -------
