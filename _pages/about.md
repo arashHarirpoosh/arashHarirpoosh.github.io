@@ -7,20 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-HIGHLIGHTS OF QUALIFICATIONS
--------
-* I have been working with C, C++, Python, Java and I have basic knowledge about Android.
-* Self-learner, detail oriented, fast adaptable, diligent, team work player and passion for solving challenging problems.
-
 EDUCATION
 -------
-**Amirkabir University of Technology**<br />Sep. 2018- Present
+**Amirkabir University of Technology**<br />B.Sc. Computer Engineerin, Sep. 2018- Present
+#* GPA: 17.05 / 20
+#* Notable Courses:
+  #* Principles of Computational Intelligence
+  #* Multicore Programming
+  #* Design & Analysis of Algorithms
+  #* Principles of Database Design
+  #* Data Structures and Algorithms
+
+#HIGHLIGHTS OF QUALIFICATIONS
+#-------
+#* I have been working with C, C++, Python, Java and I have basic knowledge about Android.
+#* Self-learner, detail oriented, fast adaptable, diligent, team work player and passion for solving challenging problems.
               
-
-**Zanjan University**<br />Sep. 2017- Sep. 2018
-
-
 Projects
 -------
 * [Operating Systems-midtermProject](https://github.com/arashHarirpoosh/os_midterm_project)
@@ -41,7 +43,6 @@ SOFTWARE AND TECHNICAL SKILLS
 * Operating Systems: Unix/Linux, Microsoft Windows
 * Publishing and Project Management tools: Office Box (Word, PowerPoint, Excel, Visio), LaTeX
 * Experience in: HTML, Java script, CSS, FXML, MongoDB
-* skilled in writing documentation
 
 CERTIFICATES, LICENCES and TRAINING
 -------
@@ -51,14 +52,8 @@ CERTIFICATES, LICENCES and TRAINING
 
 AREAS OF INTEREST
 -------
-* Artificial Neural Network (ANN)
-* Artificial Intelligence
-* Computer Vision
-* Image Processing 
+* Machine Learning and Artificial Neural Network
+* Deep Learning
+* Computer Vision and robotics
 * Fuzzy Systems
-* Python Django
-* Android
-* Web design
-* Software Architecture
-* RTOS (Real Time operating System)
-* Unified Modeling Language(UML)
+* Real Time operating System
