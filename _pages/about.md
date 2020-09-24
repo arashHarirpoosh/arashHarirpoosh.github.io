@@ -10,18 +10,6 @@ redirect_from:
 EDUCATION
 -------
 **Amirkabir University of Technology**<br />B.Sc. Computer Engineerin, Sep. 2018- Present
-#* GPA: 17.05 / 20
-#* Notable Courses:
-  #* Principles of Computational Intelligence
-  #* Multicore Programming
-  #* Design & Analysis of Algorithms
-  #* Principles of Database Design
-  #* Data Structures and Algorithms
-
-#HIGHLIGHTS OF QUALIFICATIONS
-#-------
-#* I have been working with C, C++, Python, Java and I have basic knowledge about Android.
-#* Self-learner, detail oriented, fast adaptable, diligent, team work player and passion for solving challenging problems.
               
 Projects
 -------
