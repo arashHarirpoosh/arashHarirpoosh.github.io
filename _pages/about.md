@@ -13,12 +13,15 @@ EDUCATION
               
 Projects
 -------
+* [Computational Intelligence](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/ComputationalIntelligence)
+* [Multicore Programming](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/MulticoreProgramming)
+* [Data Mining](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/DataMining)
+* [Principles and Applications of Artificial Intelligence](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/Principles_and_Applications_of_Artificial_Intelligence)
+* [Applied Linear Algebra](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/AppliedLinearAlgebra)
 * [Operating Systems-midtermProject](https://github.com/arashHarirpoosh/os_midterm_project)
 * [Operating Systems-finalProject](https://github.com/arashHarirpoosh/OS_FinalProject)
 * [Compiler Design](https://github.com/arashHarirpoosh/CompilerProject)
-* [Computational Intelligence](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/ComputationalIntelligence)
 * [Computer Networks](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/ComputerNetworks/NetWolf)
-* [Multicore Programming](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/MulticoreProgramming)
 * [Principles of Database Design](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/Principles_of_Database_Design)
 * [Signals And Systems](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/SignalsAndSystems)
 * [Theory of Machines and Languages](https://github.com/arashHarirpoosh/UniversityProjects/tree/master/Theory_of_Machines_and_Languages)
@@ -37,6 +40,8 @@ CERTIFICATES, LICENCES and TRAINING
 * [Python](https://gotoclass.ir/certificates/9hdv424csazhhl6exq6p/)
 * [Java](https://www.sololearn.com/Certificate/1068-5446124/pdf/)
 * [Fundamental SQL](https://www.sololearn.com/Certificate/1060-5446124/pdf/)
+* [Python for Data Science](https://courses.cognitiveclass.ai/certificates/500613ec662b4e62b9b314232de6383b)
+* [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/c7dfd7810c185884f52cb77f48c1f86fad0cf685)
 
 AREAS OF INTEREST
 -------
@@ -44,4 +49,5 @@ AREAS OF INTEREST
 * Deep Learning
 * Computer Vision and robotics
 * Fuzzy Systems
+* Evolutionary Algorithms
 * Real Time operating System
