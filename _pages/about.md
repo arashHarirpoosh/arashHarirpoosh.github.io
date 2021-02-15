@@ -37,7 +37,7 @@ SOFTWARE AND TECHNICAL SKILLS
 
 TEACHING ASSISTANT EXPERIENCES
 -------
-* Operating Systems <br />		Fall-2019
+* Operating Systems, Fall-2019
 
 CERTIFICATES, LICENCES and TRAINING
 -------
