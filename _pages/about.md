@@ -9,7 +9,7 @@ redirect_from:
 ---
 EDUCATION
 -------
-**Amirkabir University of Technology**<br />B.Sc. Computer Engineerin, Sep. 2018 - Present
+**Amirkabir University of Technology**<br />B.Sc. Computer Engineering, Sep. 2018 - Present
               
 Projects
 -------
@@ -30,10 +30,14 @@ SOFTWARE AND TECHNICAL SKILLS
 -------
 * Programming Development: C, C++, Java, Python, Verilog, VHDL, SQL
 * Parallel Programming Development: OpenMP, CUDA 
-* Database Management Systems: MySQL, SQLite
+* Database Management Systems: MySQL, SQLite, PostgreSQL
 * Operating Systems: Unix/Linux, Microsoft Windows
 * Publishing and Project Management tools: Office Box (Word, PowerPoint, Excel, Visio), LaTeX
 * Experience in: HTML, Java script, CSS, FXML, MongoDB
+
+TEACHING ASSISTANT EXPERIENCES
+-------
+* [Operating Systems](Fall-2019)
 
 CERTIFICATES, LICENCES and TRAINING
 -------
