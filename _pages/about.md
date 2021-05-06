@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-I am a 4th year BSc student in Computer Engineering at Amirkabir University (Tehran Polytechnic) where I am member of SML-Lab under supervision of Dr.Nickabadi.
+I am a 4th year BSc student in Computer Engineering at Amirkabir University (Tehran Polytechnic) where I am member of SML-Lab under supervision of Dr.Nickabadi.<br/>
 My current research interests include deep learning, computer vision and image processing.
 
 EDUCATION
@@ -33,11 +33,14 @@ Projects
 SOFTWARE AND TECHNICAL SKILLS
 -------
 * **Programming Development**: C, C++, Java, Python, Verilog, VHDL, SQL
+* **Image Processing tools**: OpenCV
+* **Machine learning and deep learning frameworks**: Keras, TensorFlow
 * **Parallel Programming Development**: OpenMP, CUDA 
-* **Database Management Systems**: MySQL, SQLite, PostgreSQL
-* **Operating Systems**: Unix/Linux, Microsoft Windows
-* **Publishing tools**: LaTeX
-* **Experience in**: HTML, Java script, CSS, FXML, MongoDB
+* **Database Management Systems**: MySQL, SQLite, PostgreSQL, MongoDB
+* **Shell Script**: bash
+* **Version Control System**: Git
+* **Publishing tool**: LaTeX
+* **Web Development**: HTML, CSS, Java script
 
 TEACHING ASSISTANT EXPERIENCES
 -------
