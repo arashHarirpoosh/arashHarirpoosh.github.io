@@ -13,7 +13,9 @@ My current research interests include deep learning, computer vision and image p
 
 EDUCATION
 -------
-**Amirkabir University of Technology**<br />B.Sc. Computer Engineering, Sep. 2018 - Present
+**Amirkabir University of Technology**<br />
+B.Sc. Computer Engineering, Sep. 2018 - Present <br />
+GPA: 17.2 / 20
               
 Projects
 -------
@@ -44,8 +46,8 @@ SOFTWARE AND TECHNICAL SKILLS
 
 TEACHING ASSISTANT EXPERIENCES
 -------
-* Operating Systems,<br      >Fall-2020
-* Applied Linear Algebra,<br >Winter-2021
+* Operating Systems,      Fall-2020
+* Applied Linear Algebra, Winter-2021
 
 CERTIFICATES, LICENCES and TRAINING
 -------
@@ -55,10 +57,10 @@ CERTIFICATES, LICENCES and TRAINING
 * [Python for Data Science](https://courses.cognitiveclass.ai/certificates/500613ec662b4e62b9b314232de6383b)
 * [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/c7dfd7810c185884f52cb77f48c1f86fad0cf685)
 
-AREAS OF INTEREST
+AREAS OF INTERESTS
 -------
 * Machine Learning and Deep Learning
 * Computer Vision and Image Processing
-* Software engineering
+* Software Engineering
 * Fuzzy Systems
 * Evolutionary Algorithms
