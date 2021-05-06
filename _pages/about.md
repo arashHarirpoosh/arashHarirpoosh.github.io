@@ -33,19 +33,19 @@ Projects
 SOFTWARE AND TECHNICAL SKILLS
 -------
 * **Programming Development**: C, C++, Java, Python, Verilog, VHDL, SQL
+* **Machine Learning and Deep Learning Frameworks**: Scikit‐learn, TensorFlow, Keras
 * **Image Processing tools**: OpenCV
-* **Machine learning and deep learning frameworks**: Keras, TensorFlow
-* **Parallel Programming Development**: OpenMP, CUDA 
 * **Database Management Systems**: MySQL, SQLite, PostgreSQL, MongoDB
-* **Shell Script**: bash
+* **Parallel Programming Development**: OpenMP, CUDA 
+* **Shell Script**: Bash
 * **Version Control System**: Git
 * **Publishing tool**: LaTeX
 * **Web Development**: HTML, CSS, Java script
 
 TEACHING ASSISTANT EXPERIENCES
 -------
-* Operating Systems,      Fall-2020
-* Applied Linear Algebra, Winter-2021
+* Operating Systems,<br      >Fall-2020
+* Applied Linear Algebra,<br >Winter-2021
 
 CERTIFICATES, LICENCES and TRAINING
 -------
