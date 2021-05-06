@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
+  - I am a 4th year BSc student in Computer Engineering at Amirkabir University (Tehran Polytechnic) where I am member of SML-Lab under supervision of Dr. Nickabadi . My current research interests include deep learning, computer vision and image processing.
   - /about.html
 ---
 EDUCATION
