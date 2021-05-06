@@ -5,8 +5,10 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - I am a 4th year BSc student in Computer Engineering at Amirkabir University (Tehran Polytechnic) where I am member of SML-Lab under supervision of Dr. Nickabadi . My current research interests include deep learning, computer vision and image processing.
   - /about.html
+
+I am a 4th year BSc student in Computer Engineering at Amirkabir University (Tehran Polytechnic) where I am member of SML-Lab under supervision of Dr. Nickabadi . My current research interests include deep learning, computer vision and image processing.
+
 ---
 EDUCATION
 -------
@@ -29,16 +31,17 @@ Projects
 
 SOFTWARE AND TECHNICAL SKILLS
 -------
-* Programming Development: C, C++, Java, Python, Verilog, VHDL, SQL
-* Parallel Programming Development: OpenMP, CUDA 
-* Database Management Systems: MySQL, SQLite, PostgreSQL
-* Operating Systems: Unix/Linux, Microsoft Windows
-* Publishing and Project Management tools: Office Box (Word, PowerPoint, Excel, Visio), LaTeX
-* Experience in: HTML, Java script, CSS, FXML, MongoDB
+* **Programming Development**: C, C++, Java, Python, Verilog, VHDL, SQL
+* **Parallel Programming Development**: OpenMP, CUDA 
+* **Database Management Systems**: MySQL, SQLite, PostgreSQL
+* **Operating Systems**: Unix/Linux, Microsoft Windows
+* **Publishing and Project Management tools**: LaTeX
+* **Experience in**: HTML, Java script, CSS, FXML, MongoDB
 
 TEACHING ASSISTANT EXPERIENCES
 -------
-* Operating Systems, Fall-2020
+* Operating Systems,      Fall-2020
+* Applied Linear Algebra, Winter-2021
 
 CERTIFICATES, LICENCES and TRAINING
 -------
@@ -50,9 +53,7 @@ CERTIFICATES, LICENCES and TRAINING
 
 AREAS OF INTEREST
 -------
-* Machine Learning and Artificial Neural Network
-* Deep Learning
-* Computer Vision and robotics
+* Machine Learning and Deep Learning
+* Computer Vision and Image Processing
 * Fuzzy Systems
 * Evolutionary Algorithms
-* Real Time operating System
