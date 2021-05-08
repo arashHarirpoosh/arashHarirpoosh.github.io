@@ -57,7 +57,7 @@ CERTIFICATES, LICENCES and TRAINING
 * [Python for Data Science](https://courses.cognitiveclass.ai/certificates/500613ec662b4e62b9b314232de6383b)
 * [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/c7dfd7810c185884f52cb77f48c1f86fad0cf685)
 
-AREAS OF INTERESTS
+AREAS OF INTEREST
 -------
 * Machine Learning and Deep Learning
 * Computer Vision and Image Processing
