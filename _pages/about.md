@@ -52,11 +52,12 @@ TEACHING ASSISTANT EXPERIENCES
 CERTIFICATES, LICENCES and TRAINING
 -------
 * [Python](https://gotoclass.ir/certificates/9hdv424csazhhl6exq6p/)
-* [Advanced Python Programming](https://maktabkhooneh.org/media/students/certificates/16222814541976504.pdf)
 * [Java](https://www.sololearn.com/Certificate/1068-5446124/pdf/)
 * [Fundamental SQL](https://www.sololearn.com/Certificate/1060-5446124/pdf/)
 * [Python for Data Science](https://courses.cognitiveclass.ai/certificates/500613ec662b4e62b9b314232de6383b)
 * [Introduction to Natural Language Processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/c7dfd7810c185884f52cb77f48c1f86fad0cf685)
+* [Advanced Python Programming](https://maktabkhooneh.org/media/students/certificates/16222814541976504.pdf)
+
 
 AREAS OF INTEREST
 -------
